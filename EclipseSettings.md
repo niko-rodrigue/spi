@@ -1,3 +1,5 @@
+
+
 # Project settings #
   * First add the jar file to your classpath.
     * In this example we have created a project "tools" and added the file "mangosdk-spi-0.2.1.jar" to that project.
@@ -6,7 +8,7 @@
   * Navigate to "Java Compiler/Annotation Processing"
   * Check the "Enable Project specific settings" checkbox
 
-> ![http://spi.googlecode.com/svn/trunk/wiki-images/eclipse-project-settings1.png](http://spi.googlecode.com/svn/trunk/wiki-images/eclipse-project-settings1.png)
+> ![Eclipse Project Setting](https://raw.githubusercontent.com/niko-rodrigue/spi/master/eclipse-project-settings1.png)
 
 > _Screenshot of the Properties window after enabling annotation processing for this project_
 
@@ -15,7 +17,7 @@
   * Press "Add Jar..." or "Add External Jar..." to choose the jar file.
   * After this, the Properties window should look like this:
 
-> ![http://spi.googlecode.com/svn/trunk/wiki-images/eclipse-project-settings2.png](http://spi.googlecode.com/svn/trunk/wiki-images/eclipse-project-settings2.png)
+> ![Eclipse Project Setting](https://raw.githubusercontent.com/niko-rodrigue/spi/master/eclispe-project-settings2.png)
 
 > _Screenshot of the Properties window after registering the jar file as an annotation processor_
 
