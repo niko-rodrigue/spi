@@ -2,7 +2,7 @@
 
 # Project settings #
   * First add the jar file to your classpath.
-    * In this example we have created a project "tools" and added the file "mangosdk-spi-0.2.1.jar" to that project.
+    * In this example we have created a project "tools" and added the file "spi-full-0.2.4.jar" to that project.
     * We have added the "tools" project to classpath of the implementing projects
   * Open the project Properties dialog
   * Navigate to "Java Compiler/Annotation Processing"
