@@ -17,7 +17,7 @@
   * Press "Add Jar..." or "Add External Jar..." to choose the jar file.
   * After this, the Properties window should look like this:
 
-> ![Eclipse Project Setting](https://raw.githubusercontent.com/niko-rodrigue/spi/master/eclispe-project-settings2.png)
+> ![Eclipse Project Setting2](https://raw.githubusercontent.com/niko-rodrigue/spi/master/eclipse-project-settings2.png)
 
 > _Screenshot of the Properties window after registering the jar file as an annotation processor_
 
