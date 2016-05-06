@@ -1,9 +1,6 @@
 
 
-# Project settings #
-  * First add the jar file to your classpath.
-    * In this example we have created a project "tools" and added the file "spi-full-0.2.4.jar" to that project.
-    * We have added the "tools" project to classpath of the implementing projects
+# Eclipse Project settings #
   * Open the project Properties dialog
   * Navigate to "Java Compiler/Annotation Processing"
   * Check the "Enable Project specific settings" checkbox
@@ -15,6 +12,7 @@
   * Navigate to "Java Compiler/Annotation Processing/Factory Path"
   * Check the "Enable Project specific settings" checkbox
   * Press "Add Jar..." or "Add External Jar..." to choose the jar file.
+    * The jar file to use can be found in the jsbml source tree at trunk/core/lib/spi-full-0.2.4.jar.
   * After this, the Properties window should look like this:
 
 > ![Eclipse Project Setting2](https://raw.githubusercontent.com/niko-rodrigue/spi/master/eclipse-project-settings2.png)
